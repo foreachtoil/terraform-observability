@@ -1,3 +1,7 @@
 Test-File
 
 git add --> Agregar archivos a un Commit
+
+git commit -m "Mensaje"
+
+git push
